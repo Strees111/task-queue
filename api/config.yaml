@@ -1,0 +1,5 @@
+address: "localhost:2342"
+log_level: "DEBUG"
+timeout: "5s"
+workers: 4
+queue_size: 64
